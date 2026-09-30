@@ -4,7 +4,7 @@ An invoicing REST API built with **Laravel 13**: customers, invoices with line i
 
 ```
 php artisan test
-  Tests: 24 passed        # unit + feature tests, run in CI against SQLite and MySQL 8.4
+  Tests: 23 passed        # unit + feature tests, run in CI against SQLite and MySQL 8.4
 ```
 
 ## Endpoints
